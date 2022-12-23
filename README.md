@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, SwiftUI, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://wrngwrld.com](https://wrngwrld.com)
+- 👨‍💻 All of my projects are available at [wrngwrld.com](https://www.wrngwrld.com)
 
 - 📫 How to reach me **Marvin.Jaeckisch1@web.de**
 
