@@ -36,15 +36,15 @@
   </tr>
   <tr>
     <td width="100" align="center">
-      <a href="https://github.com/wrngwrld/Leyline">
-        <img src="https://raw.githubusercontent.com/wrngwrld/Leyline/main/app/assets/icon-512.png" width="80" alt="Leyline icon">
+      <a href="https://github.com/wrngwrld/leyline">
+        <img src="https://raw.githubusercontent.com/wrngwrld/leyline/main/app/assets/icon-512.png" width="80" alt="Leyline icon">
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/wrngwrld/Leyline">Leyline</a></b>: keeps your World of Warcraft settings and addons in sync between your computers, through your own NAS.<br>
+      <b><a href="https://github.com/wrngwrld/leyline">Leyline</a></b>: keeps your World of Warcraft settings and addons in sync between your computers, through your own NAS.<br>
       Settings sync first, nothing syncs while the game is running, and every replaced file is kept in a history folder.
       Lives in the menu bar on macOS and the system tray on Windows.<br><br>
-      <a href="https://github.com/wrngwrld/Leyline/releases/latest">📦 Download for macOS and Windows</a>
+      <a href="https://github.com/wrngwrld/leyline/releases/latest">📦 Download for macOS and Windows</a>
     </td>
   </tr>
 </table>
